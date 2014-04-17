@@ -10,6 +10,7 @@ var examplesTasks = [
     browserifyTask('todomvc'),
     browserifyTask('markdown'),
     browserifyTask('number-input'),
+    browserifyTask('2048'),
     browserifyEditorTask('field-reset'),
     browserifyEditorTask('bmi-counter'),
     browserifyEditorTask('shared-state'),
